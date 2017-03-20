@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PractiesTutorial</string>
+    <string name="myText">I LOVE android</string>
+    <string name="button">Text View</string>
+</resources>
